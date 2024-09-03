@@ -2,4 +2,4 @@
 - Introduction to Git and GitHub
 
 # GitHub Workshop II
--Creating and Merging Branches
+- Creating and Merging Branches
